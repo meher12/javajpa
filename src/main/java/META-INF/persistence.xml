@@ -10,8 +10,8 @@
 			<property name="javax.persistence.jdbc.driver" value="com.mysql.cj.jdbc.Driver" />
 			<property name="javax.persistence.jdbc.url"
 				value="jdbc:mysql://localhost:3306/springbank?useSSL=false" />
-			<property name="javax.persistence.jdbc.user" value="user" />
-			<property name="javax.persistence.jdbc.password" value="pass" />
+			<property name="javax.persistence.jdbc.user" value="canarydb" />
+			<property name="javax.persistence.jdbc.password" value="Password@strong12" />
 			<property name="hibernate.show_sql" value="true" />
 
 			<property name="hibernate.dialect"

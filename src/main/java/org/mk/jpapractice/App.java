@@ -8,7 +8,7 @@ import javax.persistence.EntityTransaction;
 import javax.persistence.Persistence;
 import javax.persistence.Query;
 
-import org.mk.jpapractice.domain.BankAccount;
+import org.mk.jpapractice.entity.BankAccount;
 
 
 /**

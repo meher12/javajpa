@@ -1,4 +1,4 @@
-package org.mk.jpapractice.domain;
+package org.mk.jpapractice.entity;
 
 import javax.persistence.Column;
 import javax.persistence.Entity;
